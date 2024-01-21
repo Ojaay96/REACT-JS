@@ -4,6 +4,7 @@ import Card2Component from "./components/Card2Component";
 
 const App = () => {
   return (
+    // Fragment
     <>
       <div className="App">
         <NavComponent />
